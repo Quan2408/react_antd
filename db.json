@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 1",
+      "price": 200,
+      "available": true,
+      "type": "type1",
+      "category": "danhmuc1",
+      "description": "Mô tả",
+      "imageUrls": "https://res.cloudinary.com/ecommercer2021/image/upload/v1727682994/jf21jroxqsb1zlxanwa3.png",
+      "id": 1
+    },
+    {
+      "name": "Sản phẩm demo 2",
+      "price": 200,
+      "available": true,
+      "type": "type1",
+      "category": "danhmuc1",
+      "description": "mô tả",
+      "imageUrls": "https://res.cloudinary.com/ecommercer2021/image/upload/v1727683479/ts8xnnsgshi66g8h1ahg.png",
+      "id": 2
+    },
+    {
+      "name": "iphone13",
+      "price": 1200,
+      "available": true,
+      "type": "type2",
+      "category": "tablet",
+      "description": "new seal",
+      "imageUrls": [
+        "https://res.cloudinary.com/ecommercer2021/image/upload/v1728605557/tzlss6xstr1nlkze2slb.jpg",
+        "https://res.cloudinary.com/ecommercer2021/image/upload/v1728609874/lihukusslsomgnegaiwp.jpg"
+      ],
+      "id": 4
+    },
+    {
+      "name": "iphone16",
+      "price": 300,
+      "available": true,
+      "type": "type2",
+      "category": "tablet",
+      "description": "new",
+      "imageUrls": [
+        "https://res.cloudinary.com/ecommercer2021/image/upload/v1728609730/heyspjup889adf3fyqlq.png"
+      ],
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "qn@gmail.com",
+      "password": "$2a$10$31L50612HJ57k/0RhjBKB.rnhh74PRmg.iG.tI/fI2E3O9dSE6Cgi",
+      "username": "quann",
+      "id": 1
+    },
+    {
+      "email": "qn20@gmail.com",
+      "password": "$2a$10$zyThfdIAoTlf2DP9yZTucePbDZ.gecozWRHSaYXQ8BMT8m07.x5cu",
+      "username": "quannm",
+      "id": 2
+    },
+    {
+      "email": "qn12@gmail.com",
+      "password": "$2a$10$34TjHJrMnoY1Zndc9ryVCutOE7O.izsmQy7wGgGPb5B9TSZHPWkA.",
+      "username": "quannm",
+      "id": 3
+    }
+  ]
+}
